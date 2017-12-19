@@ -15,7 +15,7 @@ Study of "Modern C++ Design"
 
 ### Chapter 1
 #### 1.4 The Benefit of Templates
-##### Test Problems
+##### Several problems
 * :question: It seems that it is possible to specialize structure including data members.
 * Codes
     * https://wandbox.org/permlink/kXbzl7humO4e4p8e
