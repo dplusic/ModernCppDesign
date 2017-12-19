@@ -22,6 +22,12 @@ Study of "Modern C++ Design"
 * Reference
     * http://lukaswoodtli.github.io/modern_cpp_design.html#the-benefit-of-templates
     
+#### 1.6 Enriched Policies
+* :question: Is it possible to prevent missing to call `SetPrototype`?
+
+#### 1.7 Destructors of Policy Classes
+* :question: Is it possible to prevent unintended type casting?
+    
 #### Reference
 * https://www.slideshare.net/lactrious/policy-based-class-design
 
