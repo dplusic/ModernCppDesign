@@ -21,7 +21,9 @@ Study of "Modern C++ Design"
     * https://wandbox.org/permlink/kXbzl7humO4e4p8e
 * Reference
     * http://lukaswoodtli.github.io/modern_cpp_design.html#the-benefit-of-templates
-
+    
+#### Reference
+* https://www.slideshare.net/lactrious/policy-based-class-design
 
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
