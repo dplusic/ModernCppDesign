@@ -24,4 +24,5 @@ Study of "Modern C++ Design"
 
 
 ## Reference
+* http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
 * https://github.com/LukasWoodtli/ModernCppDesign
