@@ -3,8 +3,8 @@ Study of "Modern C++ Design"
 
 ## Chapters
 
-### Foreword by Scott Meyers
-#### Physical<>
+#### Foreword by Scott Meyers
+##### Physical<>
 * Codes
     * https://wandbox.org/permlink/c8ewOlhBqO0KnP40
     * https://wandbox.org/permlink/a5nH0EInhRCp73qi (using `constexpr`)
