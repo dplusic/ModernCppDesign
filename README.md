@@ -39,7 +39,28 @@ Study of "Modern C++ Design"
     * https://wandbox.org/permlink/NBgMWthHfZMqAm03
 * `reinterpret_cast` do check the case of losing precision.
 * Codes
-    * https://wandbox.org/permlink/HHNBgIx1RHXrBJU6
+    * https://wandbox.org/permlink/gBoOuXovnIdkULnQ
+* Reference
+    * http://en.cppreference.com/w/cpp/language/static_assert
+
+#### 2.4 Mapping Integral Constants to Types
+* Codes
+    * https://wandbox.org/permlink/v4sFH6NWrZEeEm8Y (using `constexpr` instead of `enum`)
+    * https://wandbox.org/permlink/mQG2JTPvXtBcLhsy (`cannot specialize a member of an unspecialized template`)
+
+#### 2.6 Type Selection
+* Reference
+    * http://en.cppreference.com/w/cpp/types/conditional
+
+#### 2.7 Detecting Convertibility and Inheritance at Compile Time
+* Reference
+    * http://en.cppreference.com/w/cpp/types/is_convertible
+    * http://en.cppreference.com/w/cpp/types/is_base_of
+    * http://en.cppreference.com/w/cpp/language/decltype
+    
+#### 2.10 Type Traits
+* Reference
+    * https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/TypeTraits.h
 
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
