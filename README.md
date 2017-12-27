@@ -37,7 +37,7 @@ Study of "Modern C++ Design"
 #### 2.1 Compile-Time Assertions
 * :question: `error: invalid application of 'sizeof' to a function type`
     * https://wandbox.org/permlink/NBgMWthHfZMqAm03
-    * reference: https://stackoverflow.com/questions/1424510/most-vexing-parse-why-doesnt-a-a-work
+    * reference: https://en.wikipedia.org/wiki/Most_vexing_parse#Example_with_classes
     * https://wandbox.org/permlink/SSxKl3oZff6xAaAi (using curly brackets)
 * `reinterpret_cast` do check the case of losing precision.
 * Codes
