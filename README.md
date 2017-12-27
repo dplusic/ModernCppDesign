@@ -37,11 +37,13 @@ Study of "Modern C++ Design"
 #### 2.1 Compile-Time Assertions
 * :question: `error: invalid application of 'sizeof' to a function type`
     * https://wandbox.org/permlink/NBgMWthHfZMqAm03
+    * https://wandbox.org/permlink/ILvg0Z4FBLeyOH2T (using curly brackets)
 * `reinterpret_cast` do check the case of losing precision.
 * Codes
     * https://wandbox.org/permlink/gBoOuXovnIdkULnQ
 * Reference
     * http://en.cppreference.com/w/cpp/language/static_assert
+    * http://en.cppreference.com/w/cpp/language/reinterpret_cast
 
 #### 2.4 Mapping Integral Constants to Types
 * Codes
