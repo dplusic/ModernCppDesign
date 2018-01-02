@@ -68,13 +68,19 @@ Study of "Modern C++ Design"
 
 ### Chapter 3
 
+#### 3.1 The Need for Typelists
+* Reference
+    * Parameter pack: http://en.cppreference.com/w/cpp/language/parameter_pack
+
 #### 3.2 Defining Typelists
 * Codes
     * https://wandbox.org/permlink/tAqQsDNAFKOmCesq (OK to omit a space between `>>`)
+* Reference
+    * http://www.boost.org/doc/libs/1_66_0/libs/mpl/doc/refmanual/list.html
     
 #### 3.4 Calculating Length
 * Codes
-    * TODO: exersise https://wandbox.org/permlink/LOWWgqf2gM1nCL2U
+    * exersise: https://wandbox.org/permlink/C7sB9Oeqsw3gWY0G
 
 #### 3.6 Indexed Access
 * Reference
@@ -85,12 +91,16 @@ Study of "Modern C++ Design"
 * Reference
     * HierarchyGenerators.h: https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/HierarchyGenerators.h
 
-#### Reference
-* TODO: Variadic Template
-* TODO: boost list
+##### 3.13.2 Generating Tuples
+* Codes
+    * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI (using variadic tempalte)
+
+##### 3.13.3 Generating Linear Hierarchies
+* :question: size of `GenLinearHierarchy` implmenting `GenScatterHierarchy`
+    * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI
 
 
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
 * https://github.com/LukasWoodtli/ModernCppDesign
-* https://goo.gl/anKnnF
+* [PDF](https://goo.gl/anKnnF)
