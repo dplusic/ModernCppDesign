@@ -65,6 +65,32 @@ Study of "Modern C++ Design"
 * Reference
     * https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/TypeTraits.h
 
+
+### Chapter 3
+
+#### 3.2 Defining Typelists
+* Codes
+    * https://wandbox.org/permlink/tAqQsDNAFKOmCesq (OK to omit a space between `>>`)
+    
+#### 3.4 Calculating Length
+* Codes
+    * TODO: exersise https://wandbox.org/permlink/LOWWgqf2gM1nCL2U
+
+#### 3.6 Indexed Access
+* Reference
+    * TypeAtNonStrict: https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/Typelist.h#l147
+
+#### 3.13 Class Generation with Typelists
+##### 3.13.1 Generating Scattered Hierarchies
+* Reference
+    * HierarchyGenerators.h: https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/HierarchyGenerators.h
+
+#### Reference
+* TODO: Variadic Template
+* TODO: boost list
+
+
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
 * https://github.com/LukasWoodtli/ModernCppDesign
+* https://goo.gl/anKnnF
