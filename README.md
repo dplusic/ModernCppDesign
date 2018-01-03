@@ -89,7 +89,7 @@ Study of "Modern C++ Design"
 
 #### 3.6 Indexed Access
 * Reference
-    * TypeAtNonStrict: https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/Typelist.h#l147
+    * `TypeAtNonStrict`: https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/Typelist.h#l147
 
 #### 3.13 Class Generation with Typelists
 ##### 3.13.1 Generating Scattered Hierarchies
