@@ -77,7 +77,12 @@ Study of "Modern C++ Design"
     * https://wandbox.org/permlink/tAqQsDNAFKOmCesq (OK to omit a space between `>>`)
 * Reference
     * http://www.boost.org/doc/libs/1_66_0/libs/mpl/doc/refmanual/list.html
-    
+    * http://lacti.me/2014/06/29/variadic-template-typelist/
+
+#### 3.3 Linearizing Typelist Creation
+* Reference
+    *https://www.slideshare.net/lactrious/preprocessor-programming
+
 #### 3.4 Calculating Length
 * Codes
     * exersise: https://wandbox.org/permlink/C7sB9Oeqsw3gWY0G
