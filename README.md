@@ -13,7 +13,7 @@ Study of "Modern C++ Design"
     * https://www.codeproject.com/Articles/447922/Application-of-Cplusplus-User-Defined-Literals-t
     * https://benjaminjurke.com/content/articles/2015/compile-time-numerical-unit-dimension-checking/
 
-### Chapter 1
+### Chapter 1 Policy-Based Class Design
 #### 1.4 The Benefit of Templates
 ##### Several problems
 * Codes
@@ -32,7 +32,7 @@ Study of "Modern C++ Design"
 * https://www.slideshare.net/lactrious/policy-based-class-design
 
 
-### Chapter 2
+### Chapter 2 Techniques
 
 #### 2.1 Compile-Time Assertions
 * :question: `error: invalid application of 'sizeof' to a function type`
@@ -66,7 +66,7 @@ Study of "Modern C++ Design"
     * https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/TypeTraits.h
 
 
-### Chapter 3
+### Chapter 3 Typelists
 
 #### 3.1 The Need for Typelists
 * Reference
@@ -103,6 +103,22 @@ Study of "Modern C++ Design"
 ##### 3.13.3 Generating Linear Hierarchies
 * :question: size of `GenLinearHierarchy` implmenting `GenScatterHierarchy`
     * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI
+
+
+### Chapter 4 Small-Object Allocation
+
+#### 4.1 The Default Free Store Allocator
+* Reference
+    * http://en.cppreference.com/w/cpp/language/pimpl
+
+#### 4.2 The Workings of a Memory Allocator
+* Reference
+    * http://en.cppreference.com/w/cpp/language/bit_field
+
+#### 4.4 Chunks
+* The big problem
+    * :question: What means the undefined behaviour?
+    * performance aspect: (http://www.cplusplus.com/forum/general/28371#msg152710)
 
 
 ## Reference
