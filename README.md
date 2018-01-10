@@ -85,7 +85,7 @@ Study of "Modern C++ Design"
 
 #### 3.3 Linearizing Typelist Creation
 * Reference
-    *https://www.slideshare.net/lactrious/preprocessor-programming
+    * https://www.slideshare.net/lactrious/preprocessor-programming
 
 #### 3.4 Calculating Length
 * Codes
