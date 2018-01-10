@@ -60,6 +60,10 @@ Study of "Modern C++ Design"
     * http://en.cppreference.com/w/cpp/types/is_convertible
     * http://en.cppreference.com/w/cpp/types/is_base_of
     * http://en.cppreference.com/w/cpp/language/decltype
+
+#### 2.9. NullType and EmptyType
+* Reference
+    * http://en.cppreference.com/w/cpp/types/void_t
     
 #### 2.10 Type Traits
 * Reference
