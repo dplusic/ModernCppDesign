@@ -138,6 +138,8 @@ Study of "Modern C++ Design"
     * https://www.go4expert.com/articles/cpp-closures-functors-lamdas-stdfunction-t34654/
 
 #### 5.4 The Functor Class Template Skeleton
+* Codes
+    * https://wandbox.org/permlink/WqFenYp4M90ascri (using variadic template)
 * Reference
     * https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/Functor.h
     * http://en.cppreference.com/w/cpp/memory/auto_ptr
@@ -145,18 +147,29 @@ Study of "Modern C++ Design"
 
 #### 5.6 Handling Functors
 * Codes
-    * https://wandbox.org/permlink/0UF7fUIdSqbE4MYy (using variadic template)
-    * https://wandbox.org/permlink/AF1XkC714OLDGNiL (if the type of a `Functor` and a functor do not match)
+    * https://wandbox.org/permlink/Z9q4rMUy87ZVrESj (if the type of a `Functor` and a functor do not match)
     * https://wandbox.org/permlink/JUS8qHxa8fAOsR39 (instantiating member functions of a template class)
 
 #### 5.7 Build One, Get One Free
 * Codes
-    * https://wandbox.org/permlink/ft9ml4ObQ8quSCTF (type inference with function type)
-    * https://wandbox.org/permlink/wOqiBGybFf7maWZN (no problem with overloaded functions if ...)
+    * https://wandbox.org/permlink/UKlTXBmcUHz5uwiz (type inference with function type)
+    * https://wandbox.org/permlink/xXsnDSVW3mEYmXX8 (no problem with overloaded functions)
 
 #### 5.8 Argument and Return Type Conversions
 * Reference
     * CORBA: https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture
+    * hana: http://www.boost.org/doc/libs/1_66_0/libs/hana/doc/html/index.html
+
+#### 5.13 Real-World Issues II: Heap Allocation
+* Reference
+    * https://blogs.msdn.microsoft.com/oldnewthing/20040209-00/?p=40713
+    * http://lazarenko.me/wide-pointers/
+
+
+#### 5.14 Implementing Undo and Redo with Functor
+* Reference
+    * http://www.drdobbs.com/cpp/c-programming/184410722
+
 
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
