@@ -103,7 +103,7 @@ Study of "Modern C++ Design"
 
 ##### 3.13.2 Generating Tuples
 * Codes
-    * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI (using variadic tempalte)
+    * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI (using variadic template)
 
 ##### 3.13.3 Generating Linear Hierarchies
 * :question: size of `GenLinearHierarchy` implmenting `GenScatterHierarchy`
@@ -143,6 +143,20 @@ Study of "Modern C++ Design"
     * http://en.cppreference.com/w/cpp/memory/auto_ptr
     * https://github.com/llvm-mirror/libcxx/blob/master/include/functional
 
+#### 5.6 Handling Functors
+* Codes
+    * https://wandbox.org/permlink/0UF7fUIdSqbE4MYy (using variadic template)
+    * https://wandbox.org/permlink/AF1XkC714OLDGNiL (if the type of a `Functor` and a functor do not match)
+    * https://wandbox.org/permlink/JUS8qHxa8fAOsR39 (instantiating member functions of a template class)
+
+#### 5.7 Build One, Get One Free
+* Codes
+    * https://wandbox.org/permlink/ft9ml4ObQ8quSCTF (type inference with function type)
+    * https://wandbox.org/permlink/wOqiBGybFf7maWZN (no problem with overloaded functions if ...)
+
+#### 5.8 Argument and Return Type Conversions
+* Reference
+    * CORBA: https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture
 
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
