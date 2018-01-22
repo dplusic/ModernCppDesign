@@ -63,6 +63,7 @@ Study of "Modern C++ Design"
 
 #### 2.9. NullType and EmptyType
 * Reference
+    * http://en.cppreference.com/w/cpp/types/nullptr_t
     * http://en.cppreference.com/w/cpp/types/void_t
     
 #### 2.10 Type Traits
@@ -122,7 +123,25 @@ Study of "Modern C++ Design"
 #### 4.4 Chunks
 * The big problem
     * :question: What means the undefined behaviour?
+        * What architectures can affect it?
     * performance aspect: (http://www.cplusplus.com/forum/general/28371#msg152710)
+
+
+### Chapter 5 Generalized Functors
+
+#### 5.1 The Command Design Pattern
+* Reference
+    * http://en.cppreference.com/w/cpp/utility/functional/function
+
+#### 5.3 C++ Callable Entities
+* Reference
+    * https://www.go4expert.com/articles/cpp-closures-functors-lamdas-stdfunction-t34654/
+
+#### 5.4 The Functor Class Template Skeleton
+* Reference
+    * https://sourceforge.net/p/loki-lib/code/HEAD/tree/trunk/include/loki/Functor.h
+    * http://en.cppreference.com/w/cpp/memory/auto_ptr
+    * https://github.com/llvm-mirror/libcxx/blob/master/include/functional
 
 
 ## Reference
