@@ -154,7 +154,11 @@ Study of "Modern C++ Design"
 * Codes
     * https://wandbox.org/permlink/UKlTXBmcUHz5uwiz (type inference with function type)
     * https://wandbox.org/permlink/xXsnDSVW3mEYmXX8 (no problem with overloaded functions)
-        * :question: Any other issues?
+        * :question: Any issues?
+
+#### 5.10 Binding 
+* Reference
+    * http://en.cppreference.com/w/cpp/utility/functional/bind
 
 #### 5.8 Argument and Return Type Conversions
 * Reference
