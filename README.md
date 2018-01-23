@@ -171,10 +171,24 @@ Study of "Modern C++ Design"
     * https://blogs.msdn.microsoft.com/oldnewthing/20040209-00/?p=40713
     * http://lazarenko.me/wide-pointers/
 
-
 #### 5.14 Implementing Undo and Redo with Functor
 * Reference
     * http://www.drdobbs.com/cpp/c-programming/184410722
+
+
+### Chapter 6. Implementing Singletons
+
+#### 6.6 Addressing the Dead Reference Problem (I): The Phoenix Singleton 
+##### 6.6.1 Problems with atexit
+* Codes
+    * https://wandbox.org/permlink/lMzRm1UO3eoRowTY
+* Reference
+    * http://en.cppreference.com/w/cpp/utility/program/atexit
+
+#### 6.8 Implementing Singletons with Longevity 
+* Reference
+    * http://en.cppreference.com/w/cpp/memory/c/realloc
+    * https://stackoverflow.com/questions/6784987/lokis-setlongevity-function-seems-unsafe-to-me-is-that-so
 
 
 ## Reference
