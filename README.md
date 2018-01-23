@@ -155,6 +155,7 @@ Study of "Modern C++ Design"
     * https://wandbox.org/permlink/UKlTXBmcUHz5uwiz (type inference with function type)
     * https://wandbox.org/permlink/xXsnDSVW3mEYmXX8 (no problem with overloaded functions)
         * :question: Any issues?
+        * http://en.cppreference.com/w/cpp/language/template_argument_deduction
 
 #### 5.10 Binding 
 * Reference
