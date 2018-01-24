@@ -106,8 +106,17 @@ Study of "Modern C++ Design"
     * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI (using variadic template)
 
 ##### 3.13.3 Generating Linear Hierarchies
-* :question: size of `GenLinearHierarchy` implmenting `GenScatterHierarchy`
+* size of `GenLinearHierarchy` implmenting `GenScatterHierarchy`
     * https://wandbox.org/permlink/DpLVNaiWCiLD8KXI
+
+#### 3.14 Summary
+```
+The linear class hierarchy structure is the more size efficient one.
+A scattered class hierarchy has a useful property:
+All instantiations of the user-defined template
+(passed as an argument to GenScatterHierarchy)
+are roots of the final class, as Figure 3.2 shows. 
+```
 
 
 ### Chapter 4 Small-Object Allocation
