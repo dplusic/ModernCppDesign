@@ -203,4 +203,5 @@ are roots of the final class, as Figure 3.2 shows.
 ## Reference
 * http://my.safaribooksonline.com/book/programming/cplusplus/0201704315
 * https://github.com/LukasWoodtli/ModernCppDesign
+* https://github.com/jwvg0425/ModernCppStudy
 * [PDF](https://goo.gl/anKnnF)
